@@ -30,6 +30,6 @@ pip install -r requirements.txt
 ```python
 python manage.py runserver
 ```
-#### автор
+#### Автор
 
 * Алексей Моисеев. 47 когорта
